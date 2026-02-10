@@ -12,5 +12,6 @@ class Solution {
         temp=temp.substring(1,temp.length()-1);
 
         return temp.contains(s);
+        //solution
 }
 }
